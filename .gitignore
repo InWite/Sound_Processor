@@ -1,0 +1,38 @@
+*.txt
+*.jdebug
+*.rjpcfg
+*.rjproj
+*.html
+*.htm
+*.tmp
+*.zip
+*.xlsx
+*.log
+*.CSS
+*.PNG
+*.data
+#*.xml
+*.bin
+*.hex
+*.chm
+*.cfg
+*.pdsc
+
+#ignore information folders
+
+/_htmresc   
+/Documentation
+
+#ignore unnecessary projects
+/Projects/P-NUCLEO-WB55.Nucleo/Applications/BLE/BVLCentral
+/Projects/P-NUCLEO-WB55.Nucleo/Applications/BLE/BVLPeripheral_FullBand
+
+#ignore temporary files and unnecessary folders
+/Projects/P-NUCLEO-WB55.Nucleo/Applications/BLE/BVLPeripheral/Binary
+/Projects/P-NUCLEO-WB55.Nucleo/Applications/BLE/BVLPeripheral/EWARM
+/Projects/P-NUCLEO-WB55.Nucleo/Applications/BLE/BVLPeripheral/MDK-ARM
+
+
+
+
+
